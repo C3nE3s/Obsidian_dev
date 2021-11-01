@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "54cb37dec6672d24",
+    "id": "7a72190f017b505b",
     "type": "split",
     "children": [
       {
-        "id": "8a4e2ef12f2cde42",
+        "id": "010b09f9fdd28200",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261
   },
   "right": {
     "id": "c4f3007430681a43",
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a4e2ef12f2cde42",
+  "active": "010b09f9fdd28200",
   "lastOpenFiles": [
     "Untitled.md"
   ]

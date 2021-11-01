@@ -1,0 +1,126 @@
+@charset "UTF-8";
+:root {
+  --default-font: 'DM Sans', sans-serif;
+  --font-monospace: "Pragmata Pro", monospace;
+  --font-editor-size: 1rem;
+  --font-editor-linenumbers-size: medium;
+  --font-h1-preview-size: 4.7708rem;
+  --font-h2-preview-size: 2.9583rem;
+  --font-h3-preview-size: 2.2083rem;
+  --font-h4-preview-size: 1.8333rem;
+  --font-h5-preview-size: 1.6667rem;
+  --font-h6-preview-size: 1.5rem;
+  --font-math-preview-size: 1.126rem;
+  --font-tag-preview-size: 0.9rem;
+  --font-hover-preview-size: 0.9rem;
+  --font-prompts-size: 0.875rem;
+  --background-light: #FBF7F5;
+  --background-dark: #0F4C81;
+  --white: #ffffff;
+  --blue: #0F4C81;
+  --teal: #20A39E;
+  --red: #E65F5C;
+  --yellow: #FFCA3A;
+  
+}
+
+.mod-left {
+    background-color: var(--background-dark);
+    color: var(--white);
+    --text-faint: #fbf7fb;
+}
+
+.mod-right {
+    background-color: var(--background-light);
+    color: var(--blue);
+    --text-faint: #0F4C81D9;
+}
+
+.workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type .view-header  {
+    background-color: var(--background-light);
+}
+
+.workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type.mod-active .view-header-title-container:after {
+    background: transparent;
+}
+
+workspace-split.mod-vertical > * > .workspace-leaf-resize-handle, .workspace-split.mod-left-split > .workspace-leaf-resize-handle, .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+    right: -4px;
+}
+
+.workspace-ribbon-collapse-btn {
+    color: var(--blue);
+}
+
+.status-bar {
+    background-color: var(--background-dark);
+    color: var(--white);
+    --text-faint: #fbf7fb;
+}
+
+.view-header-title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.nav-folder-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-folder-title-content {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.markdown-preview-section h1, .markdown-preview-section h2, .markdown-preview-section h3, .markdown-preview-section h4, .markdown-preview-section h5, .markdown-preview-section h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.markdown-preview-section p {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.HyperMD-header {
+    font-family: 'Iosevka SS10 Bold', sans-serif;
+}
+
+.CodeMirror-code {
+    font-family: "SF Mono", sans-serif;
+}
+
+.theme-light {
+    --background-primary: var(--background-light);
+    --background-primary-alt: #f5f6f8;
+    --background-secondary: #D6D2D0;
+    --background-secondary-alt: #D6D2D0;
+    --background-modifier-border: #D6D2D0;
+    --background-modifier-form-field: #fff;
+    --background-modifier-form-field-highlighted: #fff;
+    --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
+    --background-modifier-success: var(--teal);
+    --background-modifier-error: var(--red);
+    --background-modifier-error-rgb: 230, 95, 92;
+    --background-modifier-error-hover: var(--red);
+    --background-modifier-cover: rgba(0, 0, 0, 0.8);
+    --text-accent: var(--teal);
+    --text-accent-hover: rgba(32, 163,158, 75);
+    --text-normal: var(--blue);
+    --text-muted: #386287;
+    --text-muted-rgb: 82, 107, 129;
+    --text-faint: #125998;
+    --text-error: var(--red);
+    --text-error-hover: var(--red);
+    --text-highlight-bg: #FFCA3A;
+    --text-highlight-bg-active: var(--yellow);
+    --text-selection: rgba(204, 230, 255, 0.99);
+    --text-on-accent: #f2f2f2;
+    --interactive-normal: #f2f3f5;
+    --interactive-hover: #e9e9e9;
+    --interactive-accent: #7b6cd9;
+    --interactive-accent-rgb: 123, 108, 217;
+    --interactive-accent-hover: #8273e6;
+    --interactive-success: #197300;
+    --scrollbar-active-thumb-bg: rgba(0, 0, 0, 0.2);
+    --scrollbar-bg: rgba(0, 0, 0, 0.05);
+    --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
+    --highlight-mix-blend-mode: darken;
+}

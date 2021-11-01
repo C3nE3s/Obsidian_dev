@@ -1,7 +1,8 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Clair de Lune",
+  "cssTheme": "NauticalLight",
   "enabledCssSnippets": [
     "fonts"
-  ]
+  ],
+  "theme": "moonstone"
 }
