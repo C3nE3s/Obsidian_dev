@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "010b09f9fdd28200",
+        "id": "6d8a1ebbbc1674ac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Remove Background from Image.md",
+            "mode": "source"
+          }
+        },
+        "group": "5768111851c4e782"
+      },
+      {
+        "id": "1d30b202a968c9d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Remove Background from Image.md",
+            "mode": "preview"
+          }
+        },
+        "group": "5768111851c4e782"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Remove Background from Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "010b09f9fdd28200",
+  "active": "6d8a1ebbbc1674ac",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Remove Background from Image.md",
+    "Schema First Design.md",
+    "Lift Off Tutorial.md",
+    "Remote Team Meetings.md",
+    "Analyzing Startup Companies.md",
+    "Pasted image 20211101143825.png",
+    "Description List.md",
+    "10 lessons handling React State.md",
+    "Open Type Font Features.md",
+    "Templates/Research Resource Note.md"
   ]
 }
