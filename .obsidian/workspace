@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Remove Background from Image.md",
+            "file": "Open Type Font Features.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Remove Background from Image.md",
+            "file": "Open Type Font Features.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remove Background from Image.md",
+                "file": "Open Type Font Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "6d8a1ebbbc1674ac",
   "lastOpenFiles": [
+    "Open Type Font Features.md",
     "Remove Background from Image.md",
     "Schema First Design.md",
     "Lift Off Tutorial.md",
@@ -109,7 +110,6 @@
     "Pasted image 20211101143825.png",
     "Description List.md",
     "10 lessons handling React State.md",
-    "Open Type Font Features.md",
     "Templates/Research Resource Note.md"
   ]
 }
