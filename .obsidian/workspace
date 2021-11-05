@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Open Type Font Features.md",
+            "file": "CSS Grid Generator.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Open Type Font Features.md",
+            "file": "CSS Grid Generator.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Type Font Features.md",
+                "file": "CSS Grid Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "6d8a1ebbbc1674ac",
   "lastOpenFiles": [
+    "CSS Grid Generator.md",
+    "Noise.md",
     "Open Type Font Features.md",
     "Remove Background from Image.md",
     "Schema First Design.md",
@@ -108,8 +110,6 @@
     "Remote Team Meetings.md",
     "Analyzing Startup Companies.md",
     "Pasted image 20211101143825.png",
-    "Description List.md",
-    "10 lessons handling React State.md",
-    "Templates/Research Resource Note.md"
+    "Description List.md"
   ]
 }
