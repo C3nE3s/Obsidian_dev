@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8a1ebbbc1674ac",
+        "id": "b6f9eae8d9ed3d3a",
         "type": "leaf",
-        "dimension": 58.14788226848528,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,12 +13,11 @@
             "mode": "source"
           }
         },
-        "group": "5768111851c4e782"
+        "group": "e37dd3be462561b0"
       },
       {
-        "id": "1d30b202a968c9d7",
+        "id": "36ab52dfde3f4b94",
         "type": "leaf",
-        "dimension": 41.85211773151472,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "5768111851c4e782"
+        "group": "e37dd3be462561b0"
       }
     ],
     "direction": "vertical"
@@ -101,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d8a1ebbbc1674ac",
+  "active": "36ab52dfde3f4b94",
   "lastOpenFiles": [
     "CSS Grid Generator.md",
-    "Noise.md",
-    "Open Type Font Features.md",
-    "Remove Background from Image.md",
-    "Schema First Design.md",
-    "Lift Off Tutorial.md",
-    "Remote Team Meetings.md",
+    "Prospective Company Research.md",
     "Analyzing Startup Companies.md",
-    "Pasted image 20211101143825.png",
-    "Description List.md"
+    "10 lessons handling React State.md",
+    "levels.fyi.md",
+    "Interviewing.md",
+    "Interview Questions.md",
+    "Interview Technical Screening Questions.md",
+    "Description List.md",
+    "Remote Team Meetings.md"
   ]
 }
