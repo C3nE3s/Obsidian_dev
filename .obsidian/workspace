@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS Grid Generator.md",
+            "file": "10 lessons handling React State.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS Grid Generator.md",
+            "file": "10 lessons handling React State.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Grid Generator.md",
+                "file": "10 lessons handling React State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +102,10 @@
   },
   "active": "36ab52dfde3f4b94",
   "lastOpenFiles": [
+    "10 lessons handling React State.md",
     "CSS Grid Generator.md",
     "Prospective Company Research.md",
     "Analyzing Startup Companies.md",
-    "10 lessons handling React State.md",
     "levels.fyi.md",
     "Interviewing.md",
     "Interview Questions.md",
