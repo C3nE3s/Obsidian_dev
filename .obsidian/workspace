@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 lessons handling React State.md",
+            "file": "Open Type Font Features.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 lessons handling React State.md",
+            "file": "Open Type Font Features.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cory",
+                "query": "font",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 lessons handling React State.md",
+                "file": "Open Type Font Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "36ab52dfde3f4b94",
   "lastOpenFiles": [
+    "Open Type Font Features.md",
     "10 lessons handling React State.md",
     "CSS Grid Generator.md",
     "Prospective Company Research.md",
@@ -110,7 +111,6 @@
     "Interviewing.md",
     "Interview Questions.md",
     "Interview Technical Screening Questions.md",
-    "Description List.md",
-    "Remote Team Meetings.md"
+    "Description List.md"
   ]
 }
