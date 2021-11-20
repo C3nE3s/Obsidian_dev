@@ -1,31 +1,18 @@
 {
   "main": {
-    "id": "7a72190f017b505b",
+    "id": "fac59401d13845a6",
     "type": "split",
     "children": [
       {
-        "id": "b6f9eae8d9ed3d3a",
+        "id": "d5ad9251401b69ee",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Open Type Font Features.md",
+            "file": "CSS Grid Generator.md",
             "mode": "source"
           }
-        },
-        "group": "e37dd3be462561b0"
-      },
-      {
-        "id": "36ab52dfde3f4b94",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Open Type Font Features.md",
-            "mode": "preview"
-          }
-        },
-        "group": "e37dd3be462561b0"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "css",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Type Font Features.md",
+                "file": "CSS Grid Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36ab52dfde3f4b94",
+  "active": "d5ad9251401b69ee",
   "lastOpenFiles": [
+    "CSS Grid Generator.md",
     "Open Type Font Features.md",
     "10 lessons handling React State.md",
-    "CSS Grid Generator.md",
     "Prospective Company Research.md",
     "Analyzing Startup Companies.md",
     "levels.fyi.md",
