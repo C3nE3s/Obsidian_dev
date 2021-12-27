@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ad9251401b69ee",
+        "id": "93537f6bc01eafbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Open Type Font Features.md",
+            "file": "Image Optimization Strategies.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "font",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Type Font Features.md",
+                "file": "Image Optimization Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5ad9251401b69ee",
+  "active": "93537f6bc01eafbb",
   "lastOpenFiles": [
-    "Open Type Font Features.md",
+    "Image Optimization Strategies.md",
+    "Curated List of Web Icons.md",
+    "Accessible Color Pallets.md",
+    "Transition Animation Examples.md",
+    "Beautiful CSS buttons examples.md",
     "CSS Grid Generator.md",
-    "10 lessons handling React State.md",
-    "Prospective Company Research.md",
     "Analyzing Startup Companies.md",
-    "levels.fyi.md",
-    "Interviewing.md",
-    "Interview Questions.md",
-    "Interview Technical Screening Questions.md",
-    "Description List.md"
+    "Open Type Font Features.md",
+    "10 lessons handling React State.md",
+    "Prospective Company Research.md"
   ]
 }
