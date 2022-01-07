@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Image Optimization Strategies.md",
+            "file": "Accessible Color Pallets.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "components",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Optimization Strategies.md",
+                "file": "Accessible Color Pallets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "93537f6bc01eafbb",
   "lastOpenFiles": [
-    "Image Optimization Strategies.md",
-    "Curated List of Web Icons.md",
     "Accessible Color Pallets.md",
-    "Transition Animation Examples.md",
-    "Beautiful CSS buttons examples.md",
     "CSS Grid Generator.md",
-    "Analyzing Startup Companies.md",
+    "Transition Animation Examples.md",
+    "Remote Team Meetings.md",
+    "Prospective Company Research.md",
     "Open Type Font Features.md",
-    "10 lessons handling React State.md",
-    "Prospective Company Research.md"
+    "levels.fyi.md",
+    "Interviewing.md",
+    "Noise.md",
+    "Pasted image 20211226152027.png"
   ]
 }

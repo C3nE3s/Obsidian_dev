@@ -7,4 +7,4 @@ createdAt: 2021-11-05
 ---
 # CSS Grid Generator
 
-[CSS Grid Generator](https://cssgrid-generator.netlify.app/)s
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/)
