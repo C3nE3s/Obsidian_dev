@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS Grid Generator.md",
-            "mode": "source"
+            "file": "CSS buttons examples.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grid",
+                "query": "button",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Grid Generator.md",
+                "file": "CSS buttons examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "93537f6bc01eafbb",
   "lastOpenFiles": [
+    "CSS buttons examples.md",
     "CSS Grid Generator.md",
     "Accessible Color Pallets.md",
     "Transition Animation Examples.md",
@@ -97,7 +98,6 @@
     "Open Type Font Features.md",
     "levels.fyi.md",
     "Interviewing.md",
-    "Noise.md",
-    "Pasted image 20211226152027.png"
+    "Noise.md"
   ]
 }
