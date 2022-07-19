@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS buttons examples.md",
+            "file": "Transition Animation Examples.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "button",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS buttons examples.md",
+                "file": "Transition Animation Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +88,10 @@
   },
   "active": "93537f6bc01eafbb",
   "lastOpenFiles": [
+    "Transition Animation Examples.md",
     "CSS buttons examples.md",
     "CSS Grid Generator.md",
     "Accessible Color Pallets.md",
-    "Transition Animation Examples.md",
     "Remote Team Meetings.md",
     "Prospective Company Research.md",
     "Open Type Font Features.md",
